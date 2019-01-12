@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. Jan
+2. Feb
+3. Mar
+   1. Monday
+   2. Tuesday
+4. Apr
+
+:heart:
+:+1:
+:smile:
