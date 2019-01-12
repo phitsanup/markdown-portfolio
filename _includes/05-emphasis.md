@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**GitHUb**
+
+*Git*
+
+I like **Github** and *git*
