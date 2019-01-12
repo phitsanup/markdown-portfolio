@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pocoyo in Chiness suite](https://www.zinkia.com//files/multimedia/name/852/pocoyo-zinkia-china.jpg)
